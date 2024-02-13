@@ -1,0 +1,1 @@
+export  {default as LogoBg} from "./login_bg.mp4"
